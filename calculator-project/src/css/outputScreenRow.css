@@ -1,0 +1,17 @@
+.screen-row {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 40px;
+    font-size: 20px;
+  }
+  
+  input {
+    border: none;
+    outline: none;
+    background-color: transparent;
+    font-size: inherit;
+    width: 100%;
+    text-align: right;
+  }
+  
